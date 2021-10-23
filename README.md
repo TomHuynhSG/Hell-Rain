@@ -25,7 +25,7 @@ Here are the steps to build this project from source to an APK file to install o
 - Copy the file to your Android phone.
 - Install it and run on your phone.
 
-An read-to-play APK is provided in the github for your convenience.  
+An ready-to-play APK is provided in the github for your convenience.  
 
 ## Reference
 Sound FX: 
