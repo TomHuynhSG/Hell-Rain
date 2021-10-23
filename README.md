@@ -1,9 +1,16 @@
 # hell-rain
+
+![intro](https://i.imgur.com/Ar1VL5m.jpg)
+
 A fun and exiciting multiplayer action game with 3D graphics on Android which is featured on the Google Play store.
 
 ## Description
 
-You can choose singleplayer or multiplayer modes to play as Spartans to fight with enemies, like spiders, in the bloody arena and try to survive with the ultimate goal to earn score highest on the leaderboard.
+You can choose singleplayer or multiplayer modes to play solo or play with your friends as Spartans to fight with the enemies, like demon spiders, in the bloody arena and try to survive with the ultimate goal to earn score highest on the leaderboard.
+
+![intro](https://i.imgur.com/1bnIHzN.jpg)
+
+![intro](https://i.imgur.com/wN1Gxbs.jpg)
 
 ## Build Instructions
 
