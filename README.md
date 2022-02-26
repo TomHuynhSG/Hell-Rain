@@ -1,6 +1,8 @@
 # hell-rain
 
-![intro](https://i.imgur.com/Ar1VL5m.jpg)
+<p align="center">
+  <img src="https://github.com/TomHuynhSG/hell-rain/blob/main/screenshots/static-menu.jpg?raw=true">
+</p>
 
 A fun and exiciting multiplayer action game with 3D graphics on Android which is featured on the Google Play store.
 
@@ -8,9 +10,25 @@ A fun and exiciting multiplayer action game with 3D graphics on Android which is
 
 You can choose singleplayer or multiplayer modes to play solo or play with your friends as Spartans to fight with the enemies, like demon spiders, in the bloody arena and try to survive with the ultimate goal to earn score highest on the leaderboard.
 
-![intro](https://i.imgur.com/1bnIHzN.jpg)
+<p align="center">
+  <img src="https://github.com/TomHuynhSG/hell-rain/blob/main/screenshots/game.jpg?raw=true">
+</p>
 
-![intro](https://i.imgur.com/wN1Gxbs.jpg)
+<p align="center">
+  <img src="https://github.com/TomHuynhSG/hell-rain/blob/main/screenshots/game2.jpg?raw=true">
+</p>
+
+<p align="center">
+  <img src="https://github.com/TomHuynhSG/hell-rain/blob/main/screenshots/main-menu.gif?raw=true">
+</p>
+
+<p align="center">
+  <img src="https://github.com/TomHuynhSG/hell-rain/blob/main/screenshots/how-to-play.gif?raw=true">
+</p>
+
+<p align="center">
+  <img src="https://github.com/TomHuynhSG/hell-rain/blob/main/screenshots/gameplay.gif?raw=true">
+</p>
 
 ## Build Instructions
 
